@@ -20,7 +20,7 @@
     dest: /tmp/install.sh
 
 - name: Install SpaceVim
-  shell: bash /tmp/install.sh
+  command: bash /tmp/install.sh
 
 - name: Add custom vim plugins
   blockinfile:
