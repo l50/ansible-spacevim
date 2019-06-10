@@ -1,6 +1,6 @@
 # Ansible Role: Docker
 
-[![Build Status](https://travis-ci.org/l50/ansible-spacevim.svg?branch=master)](https://travis-ci.org/l50/ansible-spacevim)
+[![Build Status](https://travis-ci.com/l50/ansible-spacevim.svg?branch=master)](https://travis-ci.com/l50/ansible-spacevim)
 
 An Ansible Role that installs [SpaceVim](https://github.com/SpaceVim/SpaceVim) on Linux and Mac OS.
 
