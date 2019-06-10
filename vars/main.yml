@@ -1,2 +1,2 @@
+---
 packages: ['curl', 'git', 'vim']
-#packages: ['curl', 'gcc', 'gcc-c++', 'git', 'vim', 'make', 'automake', 'kernel-devel', 'vim']
