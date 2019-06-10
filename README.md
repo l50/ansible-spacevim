@@ -1,4 +1,4 @@
-# Ansible Role: Docker
+# Ansible Role: SpaceVim
 
 [![Build Status](https://travis-ci.com/l50/ansible-spacevim.svg?branch=master)](https://travis-ci.com/l50/ansible-spacevim)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/l50/ansible-spacevim/blob/master/LICENSE)
